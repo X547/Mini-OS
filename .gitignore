@@ -1,0 +1,4 @@
+*.d
+*.o
+Startup
+Startup.bin
